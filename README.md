@@ -4,7 +4,7 @@
 
 📚 I am currently pursuing a Master's Degree in **Computer Engineering, Cybersecurity and Artificial Intelligence** at the University of Cagliari, after one year in the Master's program in **AI & Robotics** at the University of Padua.
 
----
+
 
 ## 💻 Current Thesis Project: "Calici di Stelle" App – Sorso 🍷🌌
 
@@ -16,7 +16,7 @@ The goal is to provide a useful tool for the event while promoting and enhancing
 - Reference to digitalization regulations in the Italian public administration
 - Accessibility and cultural promotion
 
----
+
 
 ## 🧠 Key Skills
 
@@ -28,7 +28,7 @@ The goal is to provide a useful tool for the event while promoting and enhancing
 - **Tools & Environments**: GitHub, Wireshark, Autopsy, X-Ways, Any.run, OpenCV, Simulink, MySQL
 - **Development**: GitHub, CMake, Visual Studio Code, Eclipse, IntelliJ, Android Studio 
 
----
+
 
 ## 🎸 Other Passions & Activities
 
@@ -37,21 +37,21 @@ The goal is to provide a useful tool for the event while promoting and enhancing
 - 🎧 I have experience with audio editing and DJ software like Ableton Live and VirtualDJ  
 - 🧾 Member and Auditor at **Leo Club Sassari Castello** in 2021/22, supporting social and cultural initiatives
 
----
+
 
 ## 🌍 Languages
 - Italian: Native speaker  
 - English: B2 (Cambridge PET certified)  
 - Spanish: A2 level
 
----
+
 
 ## 📫 Contact
 
 - 📧 Email: [andrea.labelli99@gmail.com](mailto:andrea.labelli99@gmail.com)  
 - 💻 GitHub: [andrealabelli](https://github.com/andrealabelli)
 
----
+
 
 > “I love computer science because it blends logic and creativity.  
 > My goal is to build secure, intelligent, and useful solutions for people.”  
