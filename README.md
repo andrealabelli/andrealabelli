@@ -20,17 +20,27 @@ The goal is to provide a useful tool for the event while promoting and enhancing
 
 ## 🧠 Key Skills
 
-- **Cybersecurity**: malware analysis, forensics, threat intelligence (MITRE ATT&CK, OpenCTI, recon-ng)
+- **Cybersecurity**: Malware Analysis, Forensics, Threat Intelligence (MITRE ATT&CK, OpenCTI, recon-ng)
 - **Software Development**: Python, C++, Java, Verilog HDL, JavaScript, PHP
 - **AI & Machine Learning**: Image Classification, Deep Learning with Pytorch, Computer Vision
 - **Embedded & IoT**: FPGA (Basys3), Arduino, Sensor Integration, Embedded Neural Networks
 - **Web & App Development**: HTML, CSS, JS, Flutter
 - **Tools & Environments**: GitHub, Wireshark, Autopsy, X-Ways, Any.run, OpenCV, Simulink, MySQL
+- **Development**: GitHub, CMake, Visual Studio Code, Eclipse, IntelliJ, Android Studio 
+
+---
+
+## 🎸 Other Passions & Activities
+
+- 🎶 I’m a passionate musician: I play classical, acoustic, and electric guitar (self-taught), and I enjoy digital music production and remixing  
+- 🎤 I’ve participated in polyphonic choirs both as a group member and soloist  
+- 🎧 I have experience with audio editing and DJ software like Ableton Live and VirtualDJ  
+- 🧾 Member and Auditor at **Leo Club Sassari Castello** in 2021/22, supporting social and cultural initiatives
 
 ---
 
 ## 🌍 Languages
-- Italian: native speaker  
+- Italian: Native speaker  
 - English: B2 (Cambridge PET certified)  
 - Spanish: A2 level
 
@@ -46,19 +56,3 @@ The goal is to provide a useful tool for the event while promoting and enhancing
 > “I love computer science because it blends logic and creativity.  
 > My goal is to build secure, intelligent, and useful solutions for people.”  
 > – Andrea Labelli
-
-
-<!--
-**andrealabelli/andrealabelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
