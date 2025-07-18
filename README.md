@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Andrea Labelli
+# Hi there 👋
 
 🎓 I hold a Bachelor's Degree in Computer Engineering from the University of Sassari.  
 📚 After one year in the Master's program in **AI & Robotics** at the University of Padua, I am currently pursuing a Master's Degree in **Computer Engineering, Cybersecurity and Artificial Intelligence** at the University of Cagliari.
