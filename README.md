@@ -35,7 +35,7 @@ The goal is to provide a useful tool for the event while promoting and enhancing
 - 🎶 I’m a passionate musician: I play classical, acoustic, and electric guitar (self-taught), and I enjoy digital music production and remixing  
 - 🎤 I’ve participated in polyphonic choirs both as a group member and soloist  
 - 🎧 I have experience with audio editing and DJ software like Ableton Live and VirtualDJ  
-- 🧾 Member and Auditor at **Leo Club Sassari Castello** in 2021/22, supporting social and cultural initiatives
+- 🧾 Member and Auditor at **Leo Club Sassari Castello** in 2022/23, supporting social and cultural initiatives
 
 
 
