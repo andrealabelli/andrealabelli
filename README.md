@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I hold a Bachelor's Degree in Computer Engineering from the University of Sassari.  
-
-I am currently pursuing a Master's Degree in **Computer Engineering, Cybersecurity and Artificial Intelligence** at the University of Cagliari, after one year in the Master's program in **AI & Robotics** at the University of Padua.
+I hold a Master’s Degree in **Computer Engineering, Cybersecurity and Artificial Intelligence** from the University of Cagliari and a Bachelor’s Degree in **Computer Engineering** from the University of Sassari. Previously, I attended the Master's program in **Artificial Intelligence and Robotics** at the University of Padua for one year.
 
 
 ## Key Skills
