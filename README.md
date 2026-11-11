@@ -9,6 +9,7 @@ I hold a Master’s Degree in **Computer Engineering, Cybersecurity and Artifici
 - **Software Development**: Python, C++, Java, Verilog HDL, JavaScript, PHP
 - **AI & Machine Learning**: Image Classification, Deep Learning with Pytorch, Computer Vision
 - **Embedded & IoT**: FPGA (Basys3), Arduino, Sensor Integration, Embedded Neural Networks
+- **Robotics & Simulation**:Robotic Arm Simulation with MATLAB
 - **Web & App Development**: HTML, CSS, JS, Flutter
 - **Tools & Environments**: GitHub, Wireshark, Autopsy, X-Ways, Any.run, OpenCV, Simulink, MySQL
 - **Development**: GitHub, CMake, Visual Studio Code, Eclipse, IntelliJ, Android Studio 
@@ -26,8 +27,8 @@ I hold a Master’s Degree in **Computer Engineering, Cybersecurity and Artifici
 
 ## Languages
 - Italian: Native speaker  
-- English: B2 (Cambridge PET certified)  
-- Spanish: A2 level
+- English: B2 
+- Spanish: A2
 
 
 
@@ -39,5 +40,5 @@ I hold a Master’s Degree in **Computer Engineering, Cybersecurity and Artifici
 
 
 > “I love computer science because it blends logic and creativity.  
-> My goal is to build secure, intelligent, and useful solutions for people.”  
+> My goal is to build secure, intelligent and useful solutions for people.”  
 > – Andrea Labelli
